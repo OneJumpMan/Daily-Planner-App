@@ -12,8 +12,8 @@ The picker widgit I used came from [nhcodes](https://gist.github.com/nhcodes/dc6
 # Useful Websites
 
 Thaks to the following websites 
-* [Android Studio's official Jetpack Compose website]([http://url.link.goes.here](https://developer.android.com/jetpack/compose))
-* [Droidcon]([http://url.link.goes.here](https://www.droidcon.com/))
+* [Android Studio's official Jetpack Compose website](https://developer.android.com/jetpack/compose)
+* [Droidcon](https://www.droidcon.com/)
 * [Android Developers](https://www.youtube.com/@AndroidDevelopers) on Youtube
 
 # Future Work
